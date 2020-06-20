@@ -1,10 +1,1 @@
-# error code description
-
-## start with 1
-means common exception
-10000 : parameter exception
-10080 : email that used to register has been taken
-10081 : nickname that used to register has been taken
-
-## start with 2
-means user exception
+利用python的flask框架搭建一个完整的交互网站，调试通过，直接下载即可运行包括：登陆、注册、浏览、搜索、发布或下载资源、评论等多个功能
