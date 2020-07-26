@@ -3,7 +3,7 @@ from app.models import db
 from flask import session
 from datetime import timedelta
 
-__author__ = "七月"
+
 
 app = create_app()
 
